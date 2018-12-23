@@ -19,10 +19,10 @@ In businesses big and small, people need clarity around what's expected of them.
 
 ## Who
 ### Primary users: 
-Digital agencies
-Software development companies
-Business consultancies
-Large accounting firms
+- Digital agencies
+- Software development companies
+- Business consultancies
+- Large accounting firms
 
 ## Interested?
 I'm looking for a co-founder. If you're interested in this idea and want to talk, get in touch: gichigi[a t]me.com
