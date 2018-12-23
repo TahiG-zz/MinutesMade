@@ -25,4 +25,4 @@ In businesses big and small, people need clarity around what's expected of them.
 - Large accounting firms
 
 ## Interested?
-I'm looking for a co-founder. If you're interested in this idea and want to talk, get in touch: gichigi[a t]me.com
+I'm looking for a co-founder. If you're interested in this idea and want to talk, get in touch: gichigi\at\me.com
