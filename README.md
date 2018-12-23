@@ -1,41 +1,28 @@
-MinutesMade
+# MinutesMade
 
-How might we make meetings more useful?
+### _How might we make meetings more useful?_
 
-The what
-MinutesMade is a computer software that leverages the best in dictaction to accurately capture every word of the meeting from every participant. At the end of each meeting, everyone is emailed a copy of the miinutes and actions they've agreed to.
+## What
+MinutesMade is a software-only product created to make meetings more useful. 
 
-The how
-MM leverages the very best dictation software to accurately capture human speech. 
-It uses AI and machine learning to improve its ability to identify words, accents, cultural phrases and even industry-specific/company-specific terminology. 
-It does this in two ways:
-1. It analyses general trends in speech in the wider world
-2. It analyses specific speech inside the company
-Lastly, it uses voice recognition software to detect who's speaking. The more it hears you speak the better it becomes at knowing who you are and what you're saying, no matter your accent.
+MinutesMade records conversations and meetings to automatically create minutes and distribute actions, take aways and follow ups to attendees. 
 
-The why
-Many meetings are frought with frustration. They are tiresome and its easy to become distracted. Many walk away confused about what needs to be done next or who needs to be doing it. This leads to more communication (and sometimes more meetings!) that could've been avoided.
+## How
+MinutesMade combines the best in dictaction, machine learning and voice recognition to record, interpret and continually improve its understanding/speaker recognition. 
 
-For big businesses with hundreds and thousands of employees, its imperative that each person knows what's expected of them and that stakeholders have oversight. This will help boost efficiency many fold and increase accountability. People will use the clarity to take ownership of their role and the tasks it comes with. 
+MM is platform-agnostic and can be installed on any Windows, Mac, Linux, iOS and Android software.
 
-Issues
-- Issue 1: Companies might feel transcription of their upcoming plans pose a security risk.
-- Solution 1: Encrypt the plaintext on a private blockchain where access is restricted to authorised devices. This could also help distribute the minutes with other company offices.
+## Why
+Meetings are crucial for aligning people but most are frought with frustration. They are often longer than they need to be and its easy to become distracted. A lot of people walk away from them unsure about what needs to be done next and who needs to be doing it. This leads to costly misunderstandings (and more meetings!) that could've been avoided.
 
-The Who
-Users: 
-Business consultancies
-Accounting firms
+In businesses big and small, people need clarity around what's expected of them. MM provides this clarity through automated minutes and a record of commitments/next steps. This increases increases individual accountability. Through this accountability, people can then take ownership of their role and the tasks that come with it. 
+
+## Who
+### Primary users: 
+Digital agencies
 Software development companies
+Business consultancies
+Large accounting firms
 
-Investors: 
-Founders Fund
-Kleiner Perkins
-Google Ventures
-Sequoia Capital
-
-Exit via:
-Slack
-Google
-IBM
-Amazon
+## Interested?
+I'm looking for a co-founder. If you're interested in this idea and want to talk, get in touch: gichigi[a t]me.com
